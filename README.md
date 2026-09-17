@@ -1,2 +1,2 @@
 # odin-recipes
-I am doing odian project foundation this is basically a project for recipies i going to apply my knowledge i learn during this curriculum like html basic elements tags list link img this is basically only for very basic HTML this is for self reflection how I growing 
+I am doing odian project foundation this is basically a project for recipies i going to apply my knowledge i learn during this curriculum like html basic elements tags list link img this is basically only for very basic HTML this is for self reflection how I growing  i use photo from many site like pintrest https://www.magnific.com/free-photos-vectors/chole
